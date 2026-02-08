@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Lunaris/",
+  "base_artist": "Verde/",
+  "createdAt": "2026-02-08T14:17:02.646251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lunaris",
+      "artist": "Moonlight Haze",
+      "has_synced": true,
+      "path": "select/01_Lunaris_Moonlight_Haze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lunaris",
+      "artist": "Arkona",
+      "has_synced": true,
+      "path": "select/02_Lunaris_Arkona.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Is Love ›Reloaded‹ (Lunaris remix)",
+      "artist": "Haddaway",
+      "has_synced": false,
+      "path": "select/03_What_Is_Love_›Reloaded‹_(Lunaris_remix)_Haddaway.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What Is Love >Reloaded< (Lunaris remix)",
+      "artist": "Haddaway",
+      "has_synced": false,
+      "path": "select/04_What_Is_Love__Reloaded__(Lunaris_remix)_Haddaway.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lunaris - ...of the One",
+      "artist": "Lunaris",
+      "has_synced": false,
+      "path": "select/05_Lunaris_-_...of_the_One_Lunaris.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lunaris/",
+      "artist": "Verde/",
+      "has_synced": false,
+      "path": "select/pl_01_Lunaris_Verde.txt"
+    }
+  ]
+}
